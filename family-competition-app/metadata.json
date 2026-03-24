@@ -1,0 +1,9 @@
+{
+  "name": "Family Competition App",
+  "description": "A weekly family competition app with points for healthy habits, Math, and kindness. Features 2FA login and a leaderboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
